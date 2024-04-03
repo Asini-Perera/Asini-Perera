@@ -8,7 +8,7 @@ coding
 Asini-Perera
 
 
-💬 Ask me about Java , MERN , React , Kotlin
+💬 Ask me about Java , MERN ,  Kotlin
 
 📫 How to reach me asiniperera01@gmail.com
 
